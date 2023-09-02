@@ -1,0 +1,12 @@
+.item-container {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin: 15px 0
+  }
+  
+.item-text {
+    display: flex;
+    color:dimgrey;
+    width: 13%;
+}
